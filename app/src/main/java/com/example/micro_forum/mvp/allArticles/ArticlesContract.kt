@@ -1,6 +1,6 @@
 package com.example.micro_forum.mvp.allArticles
 
-import com.example.micro_forum.data.model.Article
+import com.example.micro_forum.data.model.article.Article
 import com.example.micro_forum.mvp.MvpView
 
 interface ArticlesContract : MvpView {

@@ -1,4 +1,4 @@
-package com.example.micro_forum.data.model
+package com.example.micro_forum.data.model.article
 
 import com.google.gson.annotations.SerializedName
 

@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.micro_forum.ProfileActivity
 import com.example.micro_forum.R
-import com.example.micro_forum.data.model.ArticleComments
+import com.example.micro_forum.data.model.article.ArticleComments
 import kotlinx.android.synthetic.main.item_articler_comments.view.*
 
 class AdapterCommentsArticles(private var articlesComments: ArrayList<ArticleComments>) :

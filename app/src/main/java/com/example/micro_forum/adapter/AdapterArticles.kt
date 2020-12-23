@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.micro_forum.InfoArticles
 import com.example.micro_forum.R
-import com.example.micro_forum.data.model.Article
+import com.example.micro_forum.data.model.article.Article
 import kotlinx.android.synthetic.main.item_all_articles.view.*
 
 class AdapterArticles(private var articles: ArrayList<Article>) :

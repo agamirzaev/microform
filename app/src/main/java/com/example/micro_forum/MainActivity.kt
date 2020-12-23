@@ -6,7 +6,7 @@ import android.view.View
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.micro_forum.adapter.AdapterArticles
-import com.example.micro_forum.data.model.Article
+import com.example.micro_forum.data.model.article.Article
 import com.example.micro_forum.mvp.allArticles.ArticlesContract
 import com.example.micro_forum.mvp.allArticles.ArticlesPresenter
 import kotlinx.android.synthetic.main.activity_main.*

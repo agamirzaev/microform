@@ -1,7 +1,7 @@
 package com.example.micro_forum.mvp.infoArticles
 
-import com.example.micro_forum.data.model.ArticleComments
-import com.example.micro_forum.data.model.ArticleInfo
+import com.example.micro_forum.data.model.article.ArticleComments
+import com.example.micro_forum.data.model.article.ArticleInfo
 import com.example.micro_forum.mvp.MvpView
 
 interface InfoArticlesContract {
