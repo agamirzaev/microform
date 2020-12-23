@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">micro-forum</string>
+    <string name="noConnection">Нет подключение интернета</string>
+</resources>
